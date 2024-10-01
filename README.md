@@ -5,3 +5,5 @@
 **SIGTERM_SECONDS**
 
 Segundos para encerrar a aplicação
+
+Nova feature
